@@ -1,6 +1,5 @@
 # EjemploRedux
-Ejemplo de uso de Redux en ReactJS
-
+Consume API using users data, use redux to store data in status and a component call that data with redux and hooks.
 
 # commands used
  * Redux + TypeScript template
